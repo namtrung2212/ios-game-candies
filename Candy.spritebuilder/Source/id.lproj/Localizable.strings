@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Candy
+
+  Created by Nam Trung on 1/29/15.
+  Copyright (c) 2015 Apportable. All rights reserved.
+*/
+
+"Level" = "Tingkat";
+"TimeUp" = "Permainan Berakhir";
+"GameOver" = "Permainan Berakhir";
+"Finished" = "Permainan Berakhir";
+"YouWin" ="Kemenangan !";
+"YouLoose" ="Kekalahan !";
+"Levels"="Tingkat";
+"DevBy"="Developed By Trung Dao";
